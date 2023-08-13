@@ -1,0 +1,13 @@
+{
+ "socials": {
+   "linkedin": "https://br.linkedin.com/in/viktor-bonazza-charlanti-244890212/",
+   "instagram": "https://www.instagram.com/vk_bonazza/",
+   "github": "https://github.com/ViiKDev/"
+ },
+  "projects": {
+    "portfolio": "https://viikdev.github.io/",
+    "uranimes": "https://viikdev.github.io/uranimes",
+    "ghostlist": "https://viikdev.github.io/HCJ-ghostList/",
+    "tasklist": "https://viikdev.github.io/HCJ-taskList/"
+  }
+}
